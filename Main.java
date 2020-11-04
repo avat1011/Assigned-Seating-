@@ -11,7 +11,7 @@ class Main {
     Scanner scan = new Scanner(System.in);
 
     for (int i = 0; i < names.length; i++) { 
-      System.out.print("What's your name");// Answer what your name is, so you can get an assigned seat
+      System.out.print("What's your name");// Answer what your name is, so you can get an assigned seat 
       names[i] = scan.next();
     }
     int count = 0;
