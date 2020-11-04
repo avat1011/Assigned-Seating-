@@ -6,7 +6,7 @@ class Main {
 
     int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 };
 
-    String[] names = new String[15];
+    String[] names = new String[15]; 
 
     Scanner scan = new Scanner(System.in);
 
