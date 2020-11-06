@@ -13,8 +13,8 @@ class Main {
     for (int i = 0; i < names.length; i++) { 
       System.out.print("What's your name");// Answer what your name is, so you can get an assigned seat 
       names[i] = scan.next();
-    }
-    int count = 0;
+    } 
+    int count = 0; 
     while (count < 15) {
       System.out.println(names[count]);
       count++;
