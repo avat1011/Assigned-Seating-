@@ -15,7 +15,7 @@ class Main {
       names[i] = scan.next();
     } 
     int count = 0; 
-    while (count < 15) {
+    while (count < 15) { 
       System.out.println(names[count]);
       count++;
     }
